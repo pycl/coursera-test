@@ -1,0 +1,98 @@
+body
+{
+    background-image: url("images/bgp.jpg");
+    background-size: 100%;
+}
+.container
+{
+    width: 1300px;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.box1
+{
+    width: 300px;
+    height: 600px;
+    margin: 0px 40px;
+    position: absolute;
+    text-align: center;
+}
+img
+{
+    width: 250px;
+    position:absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 20px;
+}
+.box1>span
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 30px;
+    position: absolute;
+    top: 85%;
+    transform: translate(-50%,-50%);
+}
+.box2
+{
+   width: 850px;
+   height: 720px; 
+   float: right;
+ 
+}
+.subbox1
+{
+    width: 47%;
+    height: 32%;
+    margin-right: 25px;
+    margin-top: 20px;
+    float: left;
+    background: #F2F2F2;
+    border-radius: 20px;
+}
+.subbox2
+{
+    width: 47%;
+    height: 32%;
+    margin-left: 25px;
+    margin-top: 20px;
+    float: right;
+    background: #F2F2F2;
+    border-radius: 20px;
+}
+
+.subbox3
+{
+    width: 47%;
+    height: 32%;
+    margin-right: 25px;
+    margin-top: 20px;
+    float: left;
+    background: #F2F2F2;
+    border-radius: 20px;
+}
+.subbox4
+{
+    width: 47%;
+    height: 32%;
+    margin-left: 25px;
+    margin-top: 20px;
+    float: right;
+    background: #F2F2F2;
+    border-radius: 20px;
+}
+.subbox5
+{
+    width: 47%;
+    height: 28%;
+    margin: 10px 225px;
+    float: left;
+    position: relative;
+    background: #F2F2F2;
+    border-radius: 20px;
+    
+}
